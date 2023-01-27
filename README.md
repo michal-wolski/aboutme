@@ -6,8 +6,7 @@
 
 ![Github banner](https://user-images.githubusercontent.com/105940217/183532454-0a795968-5e5c-4f00-8ca4-8a9557f5be4a.png)
 
-<div align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal-wolski)](https://github.com/michal-wolski/github-readme-stats)</div> 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal-wolski)](https://github.com/michal-wolski/github-readme-stats)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=michal-wolski&&style=flat-square" align="center" />
 </div>  
