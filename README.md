@@ -6,4 +6,4 @@
 
 ![Github banner](https://user-images.githubusercontent.com/105940217/183532454-0a795968-5e5c-4f00-8ca4-8a9557f5be4a.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal-wolski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasikgrzegorz)](https://github.com/anuraghazra/github-readme-stats)
